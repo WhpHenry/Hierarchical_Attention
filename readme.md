@@ -9,6 +9,7 @@ Reference also and recommended:
 ## Basic Enviornment and Requirement:
 - Python 3.6
 - Tensorflow-gpu 1.4.0
+- dataset keras.datasets.imdb (about 17 Mb)
 
 ### Train self-model:
 ```
